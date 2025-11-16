@@ -1,5 +1,5 @@
 # 📅  Countdown Timer
-Um projeto desenvolvido para praticar **HTML**, **CSS** e **JavaScript**, com foco em **functions**, **SetInterval**, **Datas** e boas práticas no HTML e CSS.
+Um projeto desenvolvido para praticar **HTML**, **CSS** e **JavaScript**, com foco em **functions**, **setInterval**, **Datas** e boas práticas no HTML e CSS.
 
 ---
 
